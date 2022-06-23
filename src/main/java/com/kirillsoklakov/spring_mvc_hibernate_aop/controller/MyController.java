@@ -1,7 +1,5 @@
 package com.kirillsoklakov.spring_mvc_hibernate_aop.controller;
 
-import com.kirillsoklakov.spring_mvc_hibernate_aop.dao.EmployeeDAO;
-import com.kirillsoklakov.spring_mvc_hibernate_aop.dao.EmployeeDAOImpl;
 import com.kirillsoklakov.spring_mvc_hibernate_aop.entity.Employee;
 import com.kirillsoklakov.spring_mvc_hibernate_aop.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
